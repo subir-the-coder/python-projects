@@ -6,8 +6,8 @@ Python scripts and tools built during my learning journey
 A collection of Python scripts I created while learning and automating tasks.
 
 ## 🛠️ Projects
-- `simpEyes.py`: Checks status of multiple websites
-- `optimusPrime.py`: Detects broken links and images
+- `simpEyes`: Checks status of multiple websites
+- `optimusPrime`: Detects broken links and images (to be uploaded)
 - AWS CLI automations (coming soon)
 
 ## 📚 Skills Used

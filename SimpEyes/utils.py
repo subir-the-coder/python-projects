@@ -12,8 +12,9 @@ from urllib.parse import urlparse
 init(autoreset=True)
 
 # Read configuration from config.ini
-config = configparser.ConfigParser()
-config.read("config/config.ini")
+# config = configparser.ConfigParser()
+# config.read("config/config.ini")
+# Removing the auto email for down sites as it was not required for this project
 
 # Function to get websites from a file
 def get_websites(file_path):

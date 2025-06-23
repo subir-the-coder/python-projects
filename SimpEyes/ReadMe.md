@@ -1,6 +1,7 @@
 #### SIMPEYES
 
 Author: Subir Sutradhar
+
 LinkedIn: https://linkedin.com/subir-sec-cloud
 
 Description: A Python script, that will take check for sites whether live or not, with retry logic to check if the site comes UP, and finally will log into a CSV file the DOWN and UP SITES
